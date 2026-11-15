@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "Precision standard and scientific calculator with live expression evaluation, DEG/RAD trigonometry, and persistent history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

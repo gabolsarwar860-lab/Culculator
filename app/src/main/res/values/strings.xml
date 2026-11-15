@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="angle_deg">DEG</string>
+    <string name="angle_rad">RAD</string>
+    <string name="toggle_scientific">Scientific mode</string>
+    <string name="toggle_standard">Standard mode</string>
+    <string name="history_title">History</string>
+    <string name="history_empty_title">No calculations yet</string>
+    <string name="history_empty_subtitle">Your recent calculations will appear here so you can tap to reuse them.</string>
+    <string name="clear_history">Clear all</string>
+    <string name="close_history">Close history</string>
+    <string name="copy_result">Copy result</string>
+    <string name="copied_to_clipboard">Result copied</string>
+    <string name="theme_toggle">Switch theme</string>
+    <string name="backspace_desc">Backspace</string>
+    <string name="error_divide_by_zero">Cannot divide by zero</string>
+    <string name="error_domain">Domain error</string>
+    <string name="error_invalid">Invalid expression</string>
+    <string name="error_overflow">Value too large</string>
+    <string name="inverse_toggle">Inverse functions</string>
+</resources>
